@@ -44,5 +44,7 @@
 `pip install wincertstore`
 
 
+### 2: Put training images in Train_image folder, name of image should be the same as name of person in the image.
 
-### 2: Open the main.py in your IDE and hit Run.
+
+### 3: Open the main.py in your IDE and hit Run.
