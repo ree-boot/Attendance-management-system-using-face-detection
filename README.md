@@ -1,7 +1,7 @@
 # Attendance-management-system-using-face-detection
 
 ## How to run:
-1: Run these commands to install these packages:
+###1: Run these commands to install these packages:
 
 `pip install certifi`
 
@@ -44,4 +44,5 @@
 `pip install wincertstore`
 
 
-2: Open the main.py in your IDE and hit Run.
+
+###2: Open the main.py in your IDE and hit Run.
